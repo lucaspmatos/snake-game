@@ -1,6 +1,4 @@
-<div align="center"> 
-            <h1>Jogo da Cobrinha com JavaScript :snake:</h1>
-</div> 
+# Jogo da Cobrinha com JavaScript :snake:
 
 Exercício de recriar um dos jogos mais famosos do mundo utilizando ***HTML5***, ***CSS3*** e ***JavaScript***. Iniciativa do bootcamp **HTML Web Developer** da [**Digital Innovation One**](https://github.com/digitalinnovationone).
 
