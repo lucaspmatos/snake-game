@@ -6,5 +6,7 @@ Exercício de recriar um dos jogos mais famosos do mundo utilizando ***HTML5***,
 
 :point_right: Utilize as setas do teclado (↑, ↓, ←, →) para controlar os movimentos da cobrinha.
 
+:warning: Não é possível jogar via smartphones!
+
 ## Professora do projeto
 :woman_teacher: [Gabriela Pinheiro](https://github.com/SpruceGabriela)
